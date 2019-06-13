@@ -1,0 +1,53 @@
+MIM104300	104300	hsa-miR-328, hsa-miR-29b, hsa-miR-29a, hsa-miR-298, hsa-miR-146a, hsa-miR-107
+MIM109800	109800	hsa-miR-127-5p
+MIM113970	113970	hsa-miR-34b, hsa-miR-26a, hsa-miR-145, hsa-miR-143, hsa-let-7c, hsa-let-7a
+MIM114480	114480	hsa-miR-7, hsa-miR-520c-5p, hsa-miR-516a-3p, hsa-miR-510, hsa-miR-451, hsa-miR-429, hsa-miR-373, hsa-miR-335, hsa-miR-27a, hsa-miR-222, hsa-miR-221, hsa-miR-210, hsa-miR-21, hsa-miR-20a, hsa-miR-206, hsa-miR-205, hsa-miR-204, hsa-miR-200c, hsa-miR-200b, hsa-miR-200a, hsa-miR-17, hsa-miR-155, hsa-miR-146b-5p, hsa-miR-146a, hsa-miR-141, hsa-miR-128, hsa-miR-127-5p, hsa-miR-126, hsa-miR-125b, hsa-miR-125a-5p, hsa-miR-124, hsa-miR-10b, hsa-let-7a
+MIM114500	114500	hsa-miR-34c-5p, hsa-miR-34b, hsa-miR-34a, hsa-miR-342-3p, hsa-miR-21, hsa-miR-145, hsa-miR-143, hsa-miR-127-5p, hsa-miR-126, hsa-miR-124, hsa-let-7a
+MIM114550	114550	hsa-miR-92a, hsa-miR-34a, hsa-miR-27a, hsa-miR-24, hsa-miR-23a, hsa-miR-224, hsa-miR-223, hsa-miR-221, hsa-miR-21, hsa-miR-20a, hsa-miR-200b, hsa-miR-19b, hsa-miR-19a, hsa-miR-18a, hsa-miR-17, hsa-miR-16, hsa-miR-146a, hsa-miR-127-5p, hsa-miR-122, hsa-miR-1, hsa-let-7a
+MIM125853	125853	hsa-miR-29c, hsa-miR-29b, hsa-miR-29a
+MIM131440	131440	hsa-miR-155
+MIM133239	133239	hsa-miR-196a
+MIM137215	137215	hsa-miR-93, hsa-miR-16, hsa-miR-15b, hsa-miR-106b, hsa-let-7a
+MIM137580	137580	hsa-miR-24
+MIM137800	137800	hsa-miR-7, hsa-miR-451, hsa-miR-296-5p, hsa-miR-222, hsa-miR-221, hsa-miR-21, hsa-miR-181b, hsa-miR-181a, hsa-miR-137, hsa-miR-128, hsa-miR-124
+MIM143100	143100	hsa-miR-132
+MIM145500	145500	hsa-miR-155
+MIM150699	150699	hsa-let-7c
+MIM151400	151400	hsa-miR-29b, hsa-miR-181b, hsa-miR-16, hsa-miR-15a, hsa-miR-155, hsa-miR-145, hsa-miR-143, hsa-miR-124
+MIM151430	151430	hsa-miR-20a, hsa-miR-17
+MIM155255	155255	hsa-miR-9, hsa-miR-326, hsa-miR-324-5p, hsa-miR-125b, hsa-miR-125a-5p, hsa-miR-124
+MIM155601	155601	hsa-miR-222, hsa-miR-221, hsa-let-7b, hsa-let-7a
+MIM158350	158350	hsa-miR-21, hsa-miR-19a
+MIM161550	161550	hsa-miR-29c
+MIM164400	164400	hsa-miR-19a, hsa-miR-130a, hsa-miR-101
+MIM168600	168600	hsa-miR-433, hsa-miR-133b
+MIM174050	174050	hsa-miR-15a
+MIM176807	176807	hsa-miR-521, hsa-miR-34a, hsa-miR-23b, hsa-miR-222, hsa-miR-221, hsa-miR-16, hsa-miR-15a, hsa-miR-146a, hsa-miR-145, hsa-miR-127-5p, hsa-miR-126, hsa-miR-125b, hsa-let-7c
+MIM181500	181500	hsa-miR-206, hsa-miR-198
+MIM186860	186860	hsa-miR-93 , hsa-miR-92a, hsa-miR-20b, hsa-miR-19b, hsa-miR-130b, hsa-miR-106a
+MIM188470	188470	hsa-miR-346, hsa-miR-197
+MIM188550	188550	hsa-miR-222, hsa-miR-221, hsa-miR-146a
+MIM192600	192600	hsa-miR-21, hsa-miR-208a, hsa-miR-195, hsa-miR-133a, hsa-miR-1
+MIM211980	211980	hsa-miR-372, hsa-miR-34c-5p, hsa-miR-34b, hsa-miR-34a, hsa-miR-29c, hsa-miR-29b, hsa-miR-29a, hsa-miR-222, hsa-miR-221, hsa-miR-20a, hsa-miR-19a, hsa-miR-18a, hsa-miR-183, hsa-miR-182*, hsa-miR-17, hsa-miR-137, hsa-miR-128, hsa-miR-126, hsa-miR-124, hsa-miR-1, hsa-let-7g, hsa-let-7f, hsa-let-7e, hsa-let-7d, hsa-let-7c, hsa-let-7b, hsa-let-7a
+MIM226150	226150	hsa-miR-192 
+MIM236000	236000	hsa-miR-9, hsa-let-7a
+MIM247640	247640	hsa-miR-203, hsa-miR-155
+MIM254500	254500	hsa-miR-93, hsa-miR-32, hsa-miR-25, hsa-miR-19b, hsa-miR-19a, hsa-miR-181b, hsa-miR-181a, hsa-miR-106b
+MIM256700	256700	hsa-miR-34a, hsa-miR-184, hsa-miR-17
+MIM260350	260350	hsa-miR-370, hsa-miR-34a, hsa-miR-29b, hsa-miR-21, hsa-miR-200b, hsa-miR-155, hsa-miR-141, hsa-let-7a
+MIM266600	266600	hsa-miR-510
+MIM268210	268210	hsa-miR-29c, hsa-miR-29b
+MIM273300	273300	hsa-miR-373, hsa-miR-372
+MIM600274	600274	hsa-miR-659
+MIM600634	600634	hsa-miR-16, hsa-miR-15a
+MIM600807	600807	hsa-miR-152, hsa-miR-148b, hsa-miR-148a
+MIM601313	601313	hsa-miR-15a
+MIM601626	601626	hsa-miR-23a , hsa-miR-223, hsa-miR-210, hsa-miR-204, hsa-miR-16, hsa-miR-15a, hsa-miR-126, hsa-let-7d, hsa-let-7c, hsa-let-7a
+MIM601665	601665	hsa-miR-143
+MIM603903	603903	hsa-miR-320a
+MIM603956	603956	hsa-miR-218
+MIM604131	604131	hsa-miR-144
+MIM604370	604370	hsa-miR-9, hsa-miR-495, hsa-miR-432, hsa-miR-419, hsa-miR-377, hsa-miR-376c, hsa-miR-376b, hsa-miR-376a, hsa-miR-34c-5p, hsa-miR-34b, hsa-miR-337-3p, hsa-miR-223, hsa-miR-214, hsa-miR-199a-5p, hsa-miR-146a, hsa-let-7g, hsa-let-7d, hsa-let-7c, hsa-let-7a
+MIM605027	605027	hsa-miR-16
+MIM607464	607464	hsa-miR-26a, hsa-miR-19a, hsa-miR-18a, hsa-miR-17, hsa-miR-138, hsa-miR-125b
+MIM608232	608232	hsa-miR-223, hsa-miR-20a, hsa-miR-203, hsa-miR-17
