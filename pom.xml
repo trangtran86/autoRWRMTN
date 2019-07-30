@@ -13,11 +13,11 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>vn.edu.tlu.hatrang</groupId>
-    <artifactId>autoRWRMTN</artifactId>
+    <artifactId>RWRMTN</artifactId>
     <version>1.0</version>
 
 	
-    <name>autoRWRMTN</name>
+    <name>RWRMTN</name>
     <packaging>bundle</packaging>
         
 
